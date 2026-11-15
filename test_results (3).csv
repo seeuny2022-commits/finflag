@@ -1,0 +1,4 @@
+method,precision,recall,f1,accuracy
+Baseline: most common answer,0.0,0.0,0.0,0.88
+Baseline: keyword rule,1.0,0.83,0.91,0.98
+Gemini (prompt v2),1.0,0.67,0.8,0.96
