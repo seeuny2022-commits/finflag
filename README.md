@@ -1,7 +1,10 @@
 # FinFlag: check a finance video before you act on it
 
 **Track:** AI + Finance (my own idea)
+
 **Author:** Seeun Park (individual project)
+
+> This project is a prototype and is not financial advice.
 
 ## The problem
 Many teenagers get their first investing advice from TikTok and YouTube "finfluencers." A teen who hears "this stock will explode, buy before Monday" has no quick way to tell hype from honest analysis before putting real money in.
