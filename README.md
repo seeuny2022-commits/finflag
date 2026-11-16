@@ -102,4 +102,4 @@ I compared Gemini's flags with mine for each creator with 3+ videos in my labele
 - VideoConviction dataset, Galarnyk et al., Georgia Tech FinTech Lab: https://huggingface.co/datasets/gtfintechlab/VideoConviction (CC BY-NC 4.0)
 - Google Gemini API and Google AI Studio (Gemini 3.8 Flash)
 - Libraries: pandas, scikit-learn, Hugging Face `datasets`, Gradio
-- **AI assistance:** Claude (Anthropic) helped plan the project and draft the code, the keyword baseline and this README. I labeled all 70 videos myself, designed the red-flag checklist, ran every experiment and reviewed all results.
+- AI assistance: Claude (Anthropic) helped draft the code and the keyword baseline. I labeled all 70 videos myself, designed the red-flag checklist, ran every experiment and reviewed all results.
